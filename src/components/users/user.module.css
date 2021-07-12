@@ -1,0 +1,10 @@
+.user {
+    margin: 1rem 0;
+    font-weight: bold;
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
